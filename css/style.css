@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(12, 12, 12);
+    color:rgb(240, 240, 240);
+
+    font-family: 'Ubuntu', sans-serif;
+    
+    text-align: center;
+    font-size: 145%;
+}
+
+#canvas {
+    height: 768px;
+    width: 768px;
+    border: 1px solid white;
+}   
+
+.github-link
+{
+    color: white;
+
+    outline: none;
+    text-decoration: none;
+}
